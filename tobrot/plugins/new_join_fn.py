@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""Hi {m.from_user.first_name} \n <b> I can do many things please check pinned messsage\n\n <a href="https://t.me/anonymousleechgroup/266">Press me to go to pinned message</a></b>""", disable_web_page_preview=True)
+    await message.reply_text(text=f"""Hi {m.from_user.first_name} \n <b> I can do many things please check pinned messsage for the available commands</b> \n\n <a href="https://t.me/anonymousleechgroup/266">Press me to go to pinned message</a>""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
