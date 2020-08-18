@@ -30,19 +30,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ### The Easy Way
 
-#### STEPS (I did this to avoid the use of same button multiple times)
-
-a)You have to fork this repo at first(Don't know how to🤔, Then google it😐)
-
-b)Find `app.jso`. 🧐
-
-c)Tap on that. 😬
-
-d)Tap to edit and just add `n` at last of name (Don't touch code🤦). ✍️
-
-e)It should look like `app.json`. 🎉
-
-f)Then tap 👇👇
+#### Hi friend you dont need to fork it again because I forked it 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #Revived
 
